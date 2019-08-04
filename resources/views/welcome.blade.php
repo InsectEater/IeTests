@@ -81,8 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel 123
                 </div>
+
+                <div id="example" ></div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>

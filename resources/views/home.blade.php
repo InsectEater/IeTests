@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.reactapp')
 
 @section('content')
 <div class="container">
@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    <div id="example" ></div>
                 </div>
             </div>
         </div>
